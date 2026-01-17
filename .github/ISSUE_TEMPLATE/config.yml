@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email Support
+    url: mailto:support@acbstudios.llc
+    about: Best for purchase/licensing issues, private logs, or anything sensitive.
+  - name: Steam Discussions
+    url: https://steamcommunity.com/app/4313280/discussions/
+    about: Community discussion (Steam version).
